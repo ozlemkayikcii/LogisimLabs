@@ -1,1 +1,1 @@
-# SLogisim
+# Logisim
